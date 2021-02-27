@@ -1,0 +1,23 @@
+{
+  "name": "jest_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonycruz1/jest_1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthonycruz1/jest_1/issues"
+  },
+  "homepage": "https://github.com/anthonycruz1/jest_1#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
